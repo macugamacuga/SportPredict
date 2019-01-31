@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "943090998631",
+    "firebase_url": "https://sportpredict-58d7d.firebaseio.com",
+    "project_id": "sportpredict-58d7d",
+    "storage_bucket": "sportpredict-58d7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943090998631:android:823a2c8381ad70f7",
+        "android_client_info": {
+          "package_name": "com.lynx.ride.sportpredict"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943090998631-b0bsgernu9hbm44njqn2u6lam1tv0um1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lynx.ride.sportpredict",
+            "certificate_hash": "e73caff4cca078ffdb040b5063bf580a3d662af6"
+          }
+        },
+        {
+          "client_id": "943090998631-mng0j5iu2obq6ujtbuu3f1dnoikh741s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCizON90BqJHfPqjes5qzYjIljLPFz4jms"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943090998631-mng0j5iu2obq6ujtbuu3f1dnoikh741s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
