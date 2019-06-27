@@ -3,4 +3,8 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#d81b60</color>
+    <color name="NewAccent">#060505</color>
+    <color name="colorprime">#232121</color>
+
+    <color name="cardbg">#cbc4c4</color>
 </resources>
